@@ -79,7 +79,7 @@ export default function Login() {
             </div>
 
             <div className="mb-4">
-              <label className="block text-black mb-2">รหัสผ่าน</label>
+              <label className="block text-black mb-2">password</label>
               <div className="relative">
                 <input
                   type={showPassword ? "text" : "password"}
